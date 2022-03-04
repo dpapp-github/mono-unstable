@@ -10,4 +10,4 @@ This also proves that the smallest number faces that such a polyhedron can have 
 
 ## Format description
 * Each line in the CSV file encodes a certificate of infeasbility of a system of linear inequalities and equations of the form (1a)-(1b) of the paper.
-* Each line contains 18 positive integers: the first 9 integers are the subscripts `j1, j2, ..., j9` identifying the system of inequalities whose infeasibility is certified. The next 9 integers are the coefficients `c1, ..., c9` that prove the infeasibility of the system as explained in Lemma 6.
+* Each line contains 18 positive integers: the first 9 integers are the subscripts `j1, j2, ..., j9` identifying an instance of the system (1a)-(1b) whose infeasibility is certified. The next 9 integers in the same line are the coefficients `c1, ..., c9` that prove the infeasibility of the system, as explained in Lemma 6.
