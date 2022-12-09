@@ -10,6 +10,8 @@ This also proves that the smallest number faces that such a polyhedron can have 
 
 The Mathematica notebook `mono-unstable_0-skeletons.nb` can be used to generate the certificates.
 
+The Maple notebook `verification-Maple.mw` can be used to independently verify the generated certificates in rational arithmetic.
+
 ## Format description
 * Each line in the CSV file encodes a certificate of infeasbility of a system of linear inequalities and equations of the form (1a)-(1b) of the paper.
 * Each line contains 18 positive integers: the first 9 integers are the subscripts `j2, j3, ..., j10` identifying an instance of the system (1a)-(1b) whose infeasibility is certified. The next 9 integers in the same line are the coefficients `c1, ..., c9` that prove the infeasibility of the system, as explained in Lemma 6.
