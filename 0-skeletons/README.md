@@ -1,4 +1,4 @@
-# mono-unstable
+# mono-unstable/0-skeletons
 
 Online supplementary material for the paper
 > D. Papp, K. Regős, G. Domokos, S. Bozóki. The smallest mono-unstable convex polyhedron with point masses has 8 faces and 11 vertices. (Submitted.)
